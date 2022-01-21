@@ -2,6 +2,8 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Gooner1886.visitor-badge)
 
+[![](/Icons/linkedin.png)](https://www.linkedin.com/in/siddharth-sarma-5a17511b9/) [![](/Icons/twitter.png)](https://twitter.com/Sid_Sarma5) [![](/Icons/instagram.png)](https://www.instagram.com/siddharth_sarma5/)
+
 ### About Me:
 
 * :man_student: Third Year Computer Science Undergrad 
