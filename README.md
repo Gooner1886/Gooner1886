@@ -16,6 +16,9 @@
 * :tiger: Wildlife lover
 
 
+### Skills and Languages:
+![](/Icons/)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gooner1886&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gooner1886&theme=dark)](https://git.io/streak-stats)
