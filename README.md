@@ -19,7 +19,7 @@
 ### Skills and Languages:
 ![](/Icons/react.png) ![](/Icons/node.png) ![](/Icons/html.png) ![](/Icons/css.png) ![](/Icons/js.png)
 ![](/Icons/cpp.png) ![](/Icons/c.png) ![](/Icons/java.png) ![](/Icons/python.png) ![](/Icons/mysql.png)
-![](/Icons/mongodb.png) ![](/Icons/firebase.png) ![](/Icons/graphql.png)
+![](/Icons/mongodb.png) ![](/Icons/firebase.png) ![](/Icons/graphql.png) ![](/Icons/nextjs.png)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gooner1886&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
