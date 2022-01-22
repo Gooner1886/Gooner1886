@@ -21,7 +21,7 @@
 ![](/Icons/cpp.png) ![](/Icons/c.png) ![](/Icons/java.png) ![](/Icons/python.png) ![](/Icons/mysql.png)
 ![](/Icons/mongodb.png) ![](/Icons/firebase.png) ![](/Icons/graphql.png) ![](/Icons/express.png) ![](/Icons/nextjs.png)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gooner1886&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gooner1886&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gooner1886&theme=dark)](https://git.io/streak-stats)
 
