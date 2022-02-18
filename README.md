@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Siddharth:smiley:!
+# Hi there 👋, I'm Siddharth:smiley:!
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Gooner1886.visitor-badge)
 
