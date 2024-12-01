@@ -6,12 +6,10 @@
 
 ### About Me:
 
-* :man_student: Third Year Computer Science Undergrad 
+* :man_student: Senior Analyst at Deutsche Bank
 * :zap: Quick Learner 
-* :technologist: Full Stack Web Developer 
-* :man_student: Enhancing my skills in Data Structures and Algorithms
+* :technologist: Computer Scientist
 * :key: Web 3 Enthusiast
-* :office_worker: Open to work
 * :soccer: Sports fanatic 
 * :tiger: Wildlife lover
 
